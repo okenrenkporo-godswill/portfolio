@@ -129,7 +129,7 @@ export default function Home() {
             <div className="relative z-10 w-72 h-72 md:w-96 md:h-96 mx-auto rounded-full p-2 border-2 border-primary/30 shadow-[0_0_100px_rgba(0,212,255,0.3)] bg-background">
                <div className="w-full h-full rounded-full overflow-hidden relative">
                    <Image 
-                    src="/profile.jpeg" 
+                    src="/profile_opt.jpeg" 
                     alt="Godswill" 
                     width={400} 
                     height={400}
